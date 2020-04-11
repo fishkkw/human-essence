@@ -7,5 +7,7 @@
  * preferred-blog：优选博客
 
  * web-security: web安全专栏
+ 
+ * algorithm：算法
 
  * 其他：
