@@ -10,30 +10,30 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 14">
 <meta name=Originator content="Microsoft Word 14">
-<link rel=File-List href="常见安全漏洞.files/filelist.xml">
+<link rel=File-List href="2.常见安全漏洞.files/filelist.xml">
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>ling.li</o:Author>
   <o:LastAuthor>融云 王凯</o:LastAuthor>
-  <o:Revision>275</o:Revision>
+  <o:Revision>276</o:Revision>
   <o:TotalTime>1646</o:TotalTime>
   <o:Created>2021-01-05T08:30:00Z</o:Created>
-  <o:LastSaved>2021-01-08T07:38:00Z</o:LastSaved>
+  <o:LastSaved>2021-01-08T07:42:00Z</o:LastSaved>
   <o:Pages>6</o:Pages>
-  <o:Words>977</o:Words>
-  <o:Characters>5571</o:Characters>
+  <o:Words>1001</o:Words>
+  <o:Characters>5709</o:Characters>
   <o:Company>China</o:Company>
-  <o:Lines>46</o:Lines>
+  <o:Lines>47</o:Lines>
   <o:Paragraphs>13</o:Paragraphs>
-  <o:CharactersWithSpaces>6535</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>6697</o:CharactersWithSpaces>
   <o:Version>14.00</o:Version>
  </o:DocumentProperties>
  <o:CustomDocumentProperties>
   <o:KSOProductBuildVer dt:dt="string">2052-11.1.0.9440</o:KSOProductBuildVer>
  </o:CustomDocumentProperties>
 </xml><![endif]-->
-<link rel=themeData href="常见安全漏洞.files/themedata.thmx">
-<link rel=colorSchemeMapping href="常见安全漏洞.files/colorschememapping.xml">
+<link rel=themeData href="2.常见安全漏洞.files/themedata.thmx">
+<link rel=colorSchemeMapping href="2.常见安全漏洞.files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Print</w:View>
@@ -2032,8 +2032,8 @@ Calibri;mso-hansi-font-family:Calibri'>：一个开源的</span><span lang=EN-US>WAF</
 style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>模块，有专门针对慢速攻击防护的规则。</span></p>
 
 <p class=MsoNormal><span lang=EN-US><span style='mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>参考：</span>
-<span lang=EN-US>http://blog.nsfocus.net/cc-attack-defense/</span></p>
+style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>参考：</span><span
+lang=EN-US> http://blog.nsfocus.net/cc-attack-defense/</span></p>
 
 <p class=MsoNormal style='margin-left:84.0pt;text-indent:15.75pt;mso-char-indent-count:
 1.5'><span lang=EN-US>https://support.huaweicloud.com/antiddos_faq/antiddos_01_0021.html</span></p>
@@ -2621,6 +2621,16 @@ style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Cali
 
 <p class=MsoNormal><span lang=EN-US><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
 style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>【编码规范】</span></p>
+
+<p class=MsoNormal><span style='font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri'>其他：</span><span lang=EN-US><span
+style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp; </span>https://websec.readthedocs.io/zh/latest/index.html<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:21.0pt;text-indent:21.0pt'><span
+lang=EN-US>http://www.h3c.com/cn/d_201908/1222245_30005_0.htm<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:21.0pt;text-indent:21.0pt'><span
+lang=EN-US>https://tinytracer.com/archives/category/explore/owasp/</span></p>
 
 <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
 style='font-size:14.0pt;mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
