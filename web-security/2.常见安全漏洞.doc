@@ -10,30 +10,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 14">
 <meta name=Originator content="Microsoft Word 14">
-<link rel=File-List href="2.常见安全漏洞.files/filelist.xml">
-<!--[if gte mso 9]><xml>
- <o:DocumentProperties>
-  <o:Author>ling.li</o:Author>
-  <o:LastAuthor>融云 王凯</o:LastAuthor>
-  <o:Revision>276</o:Revision>
-  <o:TotalTime>1646</o:TotalTime>
-  <o:Created>2021-01-05T08:30:00Z</o:Created>
-  <o:LastSaved>2021-01-08T07:42:00Z</o:LastSaved>
-  <o:Pages>6</o:Pages>
-  <o:Words>1001</o:Words>
-  <o:Characters>5709</o:Characters>
-  <o:Company>China</o:Company>
-  <o:Lines>47</o:Lines>
-  <o:Paragraphs>13</o:Paragraphs>
-  <o:CharactersWithSpaces>6697</o:CharactersWithSpaces>
-  <o:Version>14.00</o:Version>
- </o:DocumentProperties>
- <o:CustomDocumentProperties>
-  <o:KSOProductBuildVer dt:dt="string">2052-11.1.0.9440</o:KSOProductBuildVer>
- </o:CustomDocumentProperties>
-</xml><![endif]-->
-<link rel=themeData href="2.常见安全漏洞.files/themedata.thmx">
-<link rel=colorSchemeMapping href="2.常见安全漏洞.files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Print</w:View>
